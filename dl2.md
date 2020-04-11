@@ -1479,7 +1479,7 @@
 
 * [《Awesome Community Detection》](https://github.com/benedekrozemberczki/awesome-community-detection)
 
-介绍: 社区发现算法用来发现网络中的社区结构，也可以视为一种广义的聚类算法。做社交网络的朋友推荐阅读[社区发现（community detection）未来的路到底该何去何从？](https://www.zhihu.com/question/32127662)
+介绍: 社区发现算法用来发现网络中的社区结构，也可以视为一种广义的聚类算法。做社交网络的朋友推荐阅读[社区发现（community detection）未来的路到底该何去何从？](https://www.zhihu.com/question/32127662) 以及基于NetworkX构建的项目[karateclub](https://github.com/benedekrozemberczki/karateclub)
 
 * [《SLAM Resources》](https://github.com/ckddls1321/SLAM_Resources)
 
@@ -1493,5 +1493,6 @@
 
 介绍: 深度神经网络的压缩方法相关论文阅读列表。卷积神经网络日益增长的深度和尺寸为深度学习在移动端的部署带来了巨大的挑战，CNN模型压缩与加速成为了学术界和工业界都重点关注的研究领域之一。
 
+* [《Best Resources for Imbalanced Classification》](https://machinelearningmastery.com/resources-for-imbalanced-classification/)
 
-
+介绍: 不平衡分类其主要关注于如何从类别分布不均衡的数据中学习数据的模式。本篇介绍了一些解决不平衡类分类问题的多种学习资源
